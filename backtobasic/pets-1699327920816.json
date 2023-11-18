@@ -1,0 +1,26 @@
+[
+  {
+    "color": "white",
+    "type": "chicken",
+    "size": "large",
+    "name": "Bon-Bon"
+  },
+  {
+    "color": "red",
+    "type": "crab",
+    "size": "large",
+    "name": "Coconut"
+  },
+  {
+    "color": "red",
+    "type": "dog",
+    "size": "large",
+    "name": "Krypto"
+  },
+  {
+    "color": "gray",
+    "type": "cockatiel",
+    "size": "large",
+    "name": "Coco"
+  }
+]
